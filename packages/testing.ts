@@ -1,1 +1,1 @@
-export { MockRandom } from '../src/testing/mock-random';
+export { MockRandom } from '../tests/testing/mock-random';
