@@ -170,7 +170,7 @@
     "moduleNameMapper": {
       "\\.(css)$": "identity-obj-proxy",
       "\\.(svg)$": "<rootDir>/.empty_module.js",
-      "svelte-json-tree-auto": "<rootDir>/src/client/debug/tests/JSONTree.mock.svelte"
+      "svelte-json-tree-auto": "<rootDir>/tests/client/debug/tests/JSONTree.mock.svelte"
     },
     "coveragePathIgnorePatterns": [
       "/node_modules/",
